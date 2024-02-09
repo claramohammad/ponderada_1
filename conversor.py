@@ -14,4 +14,4 @@ elif unid.upper() == "F":
 
 #caso a unidade não seja C ou F emite uma mensagem de erro
 else:
-    print("Por favor, insira uma unidade válida (C ou F).")
+    print("Por favor insira uma unidade de temperatura válida (C ou F)")
