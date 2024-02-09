@@ -8,7 +8,7 @@ Esse programa é um conversor de temperatura, é possível adicionar qualquer va
 
 2. Adição do conversor de celsius para fahrenheit: este commit indica a implementação da funcionalidade que permite converter temperaturas de Celsius para Fahrenheit.
    
-3.Adição do conversor de fahrenheit para celsius: similar ao anterior, este commit representa a implementação da funcionalidade que converte temperaturas de Fahrenheit para Celsius.
+3. Adição do conversor de fahrenheit para celsius: similar ao anterior, este commit representa a implementação da funcionalidade que converte temperaturas de Fahrenheit para Celsius.
 
 4. Adição validação de unidade de temperatura: este commit adicionada uma checagem para garantir que a unidade de temperatura fornecida pelo usuário seja válida (apenas 'C' ou 'F').
 
