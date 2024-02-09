@@ -7,3 +7,5 @@ if unid.upper() == "C":
 elif unid.upper() == "F":
     c = 5*(temp-32)/9
     print("A temperatura em C é: ", c)
+else:
+    print("Unidade de temperatura inválida!")
